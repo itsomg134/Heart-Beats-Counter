@@ -5,7 +5,7 @@ A real-time heart rate monitoring simulation built with vanilla HTML, CSS, and J
 ![Screenshot_14-2-2026_232023_127 0 0 1](https://github.com/user-attachments/assets/c7511e12-c9e1-4c19-bbf1-d056fc55c3e4)
 
 
-## ✨ Features
+## Features
 
 - **Real-time BPM display** – Simulated heart rate that you can control
 - **Animated heart** – Pulsates with every beat for visual feedback
@@ -15,7 +15,7 @@ A real-time heart rate monitoring simulation built with vanilla HTML, CSS, and J
 - **Responsive design** – Works beautifully on all screen sizes
 - **Glass-morphism UI** – Modern, sleek, with subtle glow effects
 
-## 🎮 How It Works
+## How It Works
 
 The heart beats automatically based on the current BPM (beats per minute):
 - **72 BPM** – Default resting rate
@@ -25,7 +25,7 @@ The heart beats automatically based on the current BPM (beats per minute):
 
 The heart icon pulses with each beat, and the progress bar reflects the current BPM intensity.
 
-## 🚀 Quick Start
+## Quick Start
 
 1. Clone this repository:
 ```bash
@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/heart-beats-counter.git
 
 That's it! No dependencies, no build steps – just pure HTML, CSS, and JavaScript.
 
-## 🎨 Customization
+## Customization
 
 You can easily customize the simulation:
 
@@ -62,14 +62,14 @@ The heart beat interval automatically syncs with BPM, but you can adjust the ani
 }
 ```
 
-## 📱 Responsive Behavior
+## Responsive Behavior
 
 The card layout adapts to different screen sizes:
 - **Desktop**: 420px fixed width with comfortable spacing
 - **Mobile**: Full-width with reduced padding (max-width: 100%)
 - All fonts and controls scale appropriately
 
-## 🧠 Technical Implementation
+## Technical Implementation
 
 - **Pure vanilla JavaScript** – No frameworks, lightweight (~150 lines)
 - **CSS Glass-morphism** – Backdrop filters, subtle borders, and glow effects
@@ -77,30 +77,34 @@ The card layout adapts to different screen sizes:
 - **Smooth animations** – CSS transitions for heart pulses and progress bar
 - **Accessible** – Semantic HTML, proper button labels, and ARIA-friendly structure
 
-## 🎯 Use Cases
+## Use Cases
 
 - **Fitness demos** – Visualize heart rate concepts
 - **UI inspiration** – Glass-morphism design patterns
 - **Learning tool** – Understand setInterval, CSS animations, and reactive UI
 - **Relaxation** – Watch the heart pulse at different rhythms
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest new features (like sound effects, historical graphs, or different heart styles)
 - Submit pull requests for improvements
 
-## 📄 License
+## License
 
 MIT License – feel free to use this in your own projects!
 
-## 🙏 Acknowledgments
+## Contact
 
-- Inspired by medical monitors and fitness trackers
-- Heart icon and animations created with pure CSS/HTML
-- Special thanks to the open-source community for design inspiration
+Om Gedam
 
----
+GitHub: @itsomg134
 
-**Made with ❤️ and lots of heartbeats**
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
